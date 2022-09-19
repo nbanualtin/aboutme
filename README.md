@@ -1,8 +1,8 @@
-**Welcome to my page👋**
+#Welcome to my page👋
 
-Materials Science and Nano Engineering Undergrad @Sabancı University, Istanbul, Turkey
+**Materials Science and Nano Engineering Undergrad @Sabancı University, Istanbul, Turkey**
 
-Soft Robotics Research Intern @The University of Manchester, Manchester, United Kingdom
+**Soft Robotics Research Intern @The University of Manchester, Manchester, United Kingdom**
 
 I currently work as a Research Intern at Smart Manufacturing Group of the University of Manchester while I continue my B.S. study in Materials Science and Nano Engineering as a senior student at Sabanci University in Istanbul. As a double major, I practised in Mechatronics Engineering during my bachelor’s studies to have a greater sense of engineering systems.
 
