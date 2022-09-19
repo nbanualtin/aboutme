@@ -1,6 +1,6 @@
 **Welcome to my page👋**
 
-Materials Science and Nano Engineering undegrad @Sabancı University, Istanbul, Turkey
+Materials Science and Nano Engineering Undergrad @Sabancı University, Istanbul, Turkey
 
 Soft Robotics Research Intern @The University of Manchester, Manchester, United Kingdom
 
